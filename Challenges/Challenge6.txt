@@ -1,0 +1,11 @@
+Utilizando documentación de pandas:
+
+Handle data
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
+
+Graphs
+https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+
+1) Realizar la regresión lineal de los tests (datasets) del archivo file-load.csv (por separado). *Regresión lineal del script
+2) Generar las respectivas graficas una por una.
+3) Generar la regresión multiple para que puedan verse los historicos de examenes y la calif final.*Regresión multiple
